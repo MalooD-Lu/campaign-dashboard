@@ -1,0 +1,21 @@
+{
+  "name": "campaign-dashboard",
+  "version": "1.0.0",
+  "description": "Voice AI Campaign CSV Processing Dashboard",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.1.0"
+  }
+}
